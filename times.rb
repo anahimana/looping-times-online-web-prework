@@ -4,3 +4,5 @@ def using_times
     puts "Hello!"
   end
 end
+
+using_times
